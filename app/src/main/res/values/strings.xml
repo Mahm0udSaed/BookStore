@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Book Store User</string>
+
+
+    <string name="title_activity_my_books">Books</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="choose">Choose</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="cannot_read_image">Cannot Read Selected Image</string>
+    <string name="enter_name">Enter Your Name</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="email_not_formatted">Email not formatted well</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="password_length_error"><![CDATA[Password length must > 6]]></string>
+    <string name="register_with_us">Register with us</string>
+    <string name="email_already_exist">Email already exists</string>
+    <string name="error_in_connection">Error in connection</string>
+    <string name="books">Books</string>
+    <string name="check_your_mail">Check Your Mail</string>
+    <string name="user_not_found">User not found</string>
+
+    <string name="address">Address</string>
+    <string name="name">Name</string>
+    <string name="can_not_read_file">Can not read PDF</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum\n\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum</string>
+    <string name="key_Books">books</string>
+    <string name="loading">Loading...</string>
+    <string name="read_book">Read Book</string>
+    <string name="android_studio">Android Studio</string>
+    <string name="test_gmail_com">test@gmail.com</string>
+    <string name="wrong">Wrong Email or Password</string>
+    <string name="error">No Internet Connection</string>
+    <string name="retry">Retry</string>
+    <string name="logout">Logout</string>
+    <string name="sure">Are you sure ?</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="bookstore">BookStore</string>
+    <string name="pdf">.pdf</string>
+    <string name="provider">com.mahmoudsaed.bookstore_user.Fileprovider</string>
+    <string name="path">Path</string>
+    <string name="file">File</string>
+    <string name="date">yyyyMMdd_HHmmss</string>
+    <string name="jpeg">JPEG_</string>
+    <string name="jpg">.jpg</string>
+    <string name="search">Search</string>
+</resources>

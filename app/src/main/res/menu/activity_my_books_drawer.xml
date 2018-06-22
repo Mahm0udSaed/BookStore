@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/group2">
+        <item
+            android:checkable="true"
+            android:id="@+id/nav_Books"
+            android:icon="@drawable/ic_if_book_461367_1"
+            android:title="@string/books" />
+    </group>
+
+    <group
+        android:checkableBehavior="single"
+        android:id="@+id/group4">
+        <item
+            android:checkable="true"
+            android:id="@+id/Logout"
+            android:icon="@drawable/ic_if_icons_exit2_1564506"
+            android:title="@string/logout" />
+    </group>
+</menu>
